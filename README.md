@@ -6,4 +6,4 @@ Consists of a Node.js backend application to simulate the manipulation of reposi
 
 Each repository is composed by: a unique ID, title, url, techs and <b>likes</b>.
 
-It also contains a POST method to increment one like per request, given a repository unique ID.
+It also has a POST method to increment one like per request, given a repository unique ID.
