@@ -1,6 +1,6 @@
 # gostack-conceitos-nodejs  :rocket:
 
-First challenge proposed by <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/find/master">@Rocketseat</a> during the GoStack Bootcamp.
+Challenge proposed by <a href="https://github.com/rocketseat-education">@Rocketseat</a> during the GoStack Bootcamp.
 
 Consists of a Node.js backend application to simulate the manipulation of repositories using HTTP Methods.
 
